@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/checkin.ts": {
+      "runtime": "@vercel/node@5.8.26"
+    }
+  }
+}
